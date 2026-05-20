@@ -1110,7 +1110,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						<link rel="stylesheet" href="/styles.css" />
 					</head>
 					<body class="retro-shell">
-						<h1 class="retro-title">Eddys fun fun</h1>
+						<h1 class="retro-title">Tic Tac Toe</h1>
 						<div class="layout">
 							<div class="game-column">
 								<section class="panel">
@@ -1241,7 +1241,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 					<head>
 						<meta charset="UTF-8" />
 						<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-						<title>Scoreboard</title>
+						<title>hmmmmmm</title>
 						<link rel="stylesheet" href="/styles.css" />
 					</head>
 					<body class="retro-shell">
