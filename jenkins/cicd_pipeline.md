@@ -1,3 +1,13 @@
+- [set up and test ssh push to github](#set-up-and-test-ssh-push-to-github)
+  - [overview of how to setup](#overview-of-how-to-setup)
+    - [generating ssh key for git hub](#generating-ssh-key-for-git-hub)
+    - [register the padlock](#register-the-padlock)
+    - [add private key to ssh register](#add-private-key-to-ssh-register)
+    - [create a test repo](#create-a-test-repo)
+  - [create a new repo containing app folder](#create-a-new-repo-containing-app-folder)
+
+
+
 # set up and test ssh push to github
 
 ## overview of how to setup
@@ -28,3 +38,6 @@
   - BUT! use the ssh link, not https
 - edit the readme file and push it
 - if push is successful, ssh github repo setup
+
+## create a new repo containing app folder
+- 
