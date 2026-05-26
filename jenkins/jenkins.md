@@ -1,3 +1,13 @@
+- [using jenkins](#using-jenkins)
+  - [what is CI? Benefits?](#what-is-ci-benefits)
+  - [what is CD? Benefits?](#what-is-cd-benefits)
+  - [what is jenkins](#what-is-jenkins)
+  - [why use jenkins? pros and cons](#why-use-jenkins-pros-and-cons)
+  - [stages of jenkins](#stages-of-jenkins)
+  - [what alternatives are there for jenkins](#what-alternatives-are-there-for-jenkins)
+  - [why build a pipeline? business value?](#why-build-a-pipeline-business-value)
+
+
 # using jenkins 
 - access jenkins server through ec2 instance on aws
 - http://34.254.6.118:8080 : public ip for server 1 of jenkins
