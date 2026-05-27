@@ -6,6 +6,7 @@
     - [create a test repo](#create-a-test-repo)
   - [CICD pipeline with jenkins](#cicd-pipeline-with-jenkins)
     - [create a repo for app v1.2](#create-a-repo-for-app-v12)
+  - [overview of CICD pipeline](#overview-of-cicd-pipeline)
   - [starting job 1 (test)](#starting-job-1-test)
     - [add a webhook](#add-a-webhook)
   - [job2: merge code](#job2-merge-code)
@@ -60,6 +61,10 @@
   - ALLOW READ/WRITE
   - sav key
   
+## overview of CICD pipeline
+
+![CICD_pipeline](imagess/cicd_pipeline.png)
+
 ## starting job 1 (test)
 - log onto jenkins server -> new item
 - enter item name -> click freestlye project -> ok

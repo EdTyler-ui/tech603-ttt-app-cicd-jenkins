@@ -1,5 +1,6 @@
 - [using jenkins](#using-jenkins)
   - [what is CI? Benefits?](#what-is-ci-benefits)
+    - [Benefits](#benefits)
   - [what is CD? Benefits?](#what-is-cd-benefits)
   - [what is jenkins](#what-is-jenkins)
   - [why use jenkins? pros and cons](#why-use-jenkins-pros-and-cons)
@@ -27,7 +28,7 @@
 - where to have manual approval and automate it
 - tests are run automatically on code to see if it can be approved for production (integrated)
 
-Benefits
+### Benefits
 - help you identify and resolve bugs
   - acts as an extra saftey net
   - reduces costs
